@@ -6,6 +6,7 @@ comm==0.2.3
 contourpy==1.4.0
 cycler==0.12.1
 debugpy==1.8.22
+dotenv==0.9.9
 et_xmlfile==2.0.0
 executing==2.2.1
 fonttools==4.66.1
@@ -33,6 +34,7 @@ pure_eval==0.2.4
 Pygments==2.21.0
 pyparsing==3.3.3
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.4
 pyzmq==27.2.0
 requests==2.34.2
 six==1.17.0
